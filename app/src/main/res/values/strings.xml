@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PSE Bank Demo</string>
+    <string name="paymentSucessDelayedTitle">Transacción en verificación</string>
+    <string name="paymentSucessTitle">Transacción exitosa</string>
+    <string name="paymentSuccessMessage">Está transacción estará sujeta a verificación, presiona Terminar para volver al comercio.</string>
+    <string name="paymentSuccessDelayedMessage">Está transacción estará sujeta a verificación, presiona Terminar para volver al comercio.</string>
+    <string name="automatonFailureTitle">La transacción no se puede completar</string>
+    <string name="automatonFailureMessage">Por favor intente nuevamente más tarde.</string>
+    <string name="automatonFailureAfterConciliationTitle">Estado de la transacción</string>
+    <string name="automatonFailureAfterConciliationMessage">Está transacción estará sujeta a verificación, presiona Terminar para volver al comercio.</string>
+</resources>
