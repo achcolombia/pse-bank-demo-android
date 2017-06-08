@@ -16,9 +16,6 @@ allprojects {
 	repositories {
 		jcenter()
 		maven {
-			url 'http://steveliles.github.com/repository/'
-		}
-		maven {
 			url 'https://dev.khipu.com/nexus/content/repositories/browser2app'
 			credentials {
 				username khipuRepoUsername
