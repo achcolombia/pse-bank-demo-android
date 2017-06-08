@@ -35,9 +35,6 @@ Se debe incluir el [repositorio maven de khenshin](https://dev.khipu.com/nexus/c
 		repositories {
 			jcenter()
 			maven {
-				url 'http://steveliles.github.com/repository/'
-			}
-			maven {
 				url 'https://dev.khipu.com/nexus/content/repositories/browser2app'
 				credentials {
 					username khenshinRepoUsername
@@ -53,7 +50,7 @@ Los campos khenshinRepoUsername y khenshinRepoPassword te serán proporcionados 
 
 Con los repositorios agregados puedes agregar el paquete khenshin a tu proyecto.
 
-    compile 'com.browser2app:khenshin:2.0.7'
+    compile 'com.browser2app:khenshin:2.4.1'
     
 ## Clase de tu aplicación
 
