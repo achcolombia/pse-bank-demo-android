@@ -31,5 +31,5 @@ dependencies {
 	testCompile 'junit:junit:4.12'
 
 
-	compile 'com.browser2app:khenshin:2.0.7'
+	compile 'com.browser2app:khenshin:2.4.1'
 }
