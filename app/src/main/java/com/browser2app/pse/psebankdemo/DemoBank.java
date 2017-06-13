@@ -4,7 +4,7 @@ import android.app.Application;
 
 import com.browser2app.khenshin.Khenshin;
 import com.browser2app.khenshin.KhenshinInterface;
-import com.browser2app.khenshin.activities.KhenshinApplication;
+import com.browser2app.khenshin.KhenshinApplication;
 
 public class DemoBank extends Application implements KhenshinApplication {
 

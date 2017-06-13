@@ -3,6 +3,7 @@
           package="com.browser2app.pse.psebankdemo">
 
     <application
+            android:name=".DemoBank"
             android:allowBackup="false"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
