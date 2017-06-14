@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PSE Bank Demo</string>
+    <string name="app_name">Bank Demo</string>
     <string name="paymentSucessDelayedTitle">Transacción en verificación</string>
     <string name="paymentSucessTitle">Transacción exitosa</string>
     <string name="paymentSuccessMessage">Está transacción estará sujeta a verificación, presiona Terminar para volver al comercio.</string>
